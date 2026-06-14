@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Towhid Islam 👋
 
-<!--
-**towhidislam3489/towhidislam3489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science & Technology (CST) Student
+- 💻 Competitive Programmer
+- 📚 Solved 600+ Problems on Online Judges
+- ⚡ Codeforces Rating: 950+
+- 🌱 Learning Full-Stack Web Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C
+- C++
+- Data Structures
+- Algorithms
+- Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Improve DSA & Problem Solving
+- Reach Specialist on Codeforces
+- Learn Full-Stack Web Development
+- Build Real-World Projects
+
+## 🌍 Connect With Me
+- LinkedIn: www.linkedin.com/in/towhidislam77
